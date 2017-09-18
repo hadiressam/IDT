@@ -1,0 +1,23 @@
+body{
+    margin: 0px;background-color: rgb(52,152,219);
+}
+.information {
+    background-color: white;
+    height:600px;width:530px;
+    margin:10px 400px 10px 400px;
+    padding: 10px;
+    border-radius: 20px ;
+    text-align: center;
+    color: rgb(119,117,118);font-size: xx-large;}
+    input {
+    width: 400px;height: 70px;background-color: rgb(236,240,241);border: hidden;
+    border-radius: 10px;text-align: center;
+    font-size: 30px;}
+    .h{
+        margin-top: 20px;
+    }
+    button{
+        margin: 10px;height: 70px;width: 400px;background-color: rgb(52,152,219);
+        border:hidden;border-radius: 10px;font-size: 30px;color: white;
+    }
+    p{ color:grey;text-decoration: underline; }
